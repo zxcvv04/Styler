@@ -139,6 +139,8 @@ namespace ProjectKinect
 
         #endregion
 
+        int a;
+
 
         public ImageSource ImageSource
         {
