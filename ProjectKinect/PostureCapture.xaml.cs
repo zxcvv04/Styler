@@ -27,6 +27,7 @@ namespace ProjectKinect
     using Microsoft.Kinect;
 
 
+
     /// <summary>
     /// PostureCapture.xaml에 대한 상호 작용 논리
     /// </summary>
@@ -56,6 +57,8 @@ namespace ProjectKinect
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             _sensor = KinectSensor.GetDefault();
+
+            int a;
 
             if (_sensor != null)
             {
