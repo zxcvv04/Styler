@@ -53,7 +53,7 @@
                         <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
                     </Viewbox>
 
-
+  
                     <ScrollViewer Grid.Row="1" Name="scrollViewer" 
                                   HorizontalScrollBarVisibility="Disabled"
                                   VerticalScrollBarVisibility="Auto" 
