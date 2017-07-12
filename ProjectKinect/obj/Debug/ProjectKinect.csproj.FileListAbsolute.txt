@@ -1,0 +1,177 @@
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.g.cs
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.g.cs
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\App.g.cs
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.cache
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.lref
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.baml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe.config
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.pdb
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.dll
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.dll
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.dll
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.xml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.xml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.xml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.baml
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.g.resources
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.Properties.Resources.resources
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csproj.GenerateResource.Cache
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.exe
+c:\users\qedwj\documents\visual studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.pdb
+C:\Users\qedwj\Documents\Visual Studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csprojResolveAssemblyReference.cache
+C:\Users\qedwj\Documents\Visual Studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.g.cs
+C:\Users\qedwj\Documents\Visual Studio 2017\Projects\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csprojResolveAssemblyReference.cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\App.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.lref
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.exe
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.pdb
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe.config
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.pdb
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.g.resources
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.Properties.Resources.resources
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csproj.GenerateResource.Cache
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csprojResolveAssemblyReference.cache
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.baml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.g.cs
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.g.cs
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.g.cs
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.g.cs
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.cache
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.lref
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.exe
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.pdb
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe.config
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.pdb
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.baml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.baml
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.g.resources
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.Properties.Resources.resources
+C:\Users\smh06\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csproj.GenerateResource.Cache
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe.config
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.pdb
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csprojResolveAssemblyReference.cache
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.baml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.g.cs
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.g.cs
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.g.cs
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.g.cs
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.cache
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.lref
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.baml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.baml
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.g.resources
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.Properties.Resources.resources
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csproj.GenerateResource.Cache
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.exe
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.pdb
+C:\Users\gu\Desktop\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csprojResolveAssemblyReference.cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.lref
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.exe
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.pdb
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe.config
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.pdb
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.g.resources
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.Properties.Resources.resources
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csproj.GenerateResource.Cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe.config
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.exe
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\ProjectKinect.pdb
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csprojResolveAssemblyReference.cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.g.cs
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect_MarkupCompile.lref
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\App.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ClotheCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\MainWindow.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\PostureCapture.baml
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.g.resources
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.Properties.Resources.resources
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.csproj.GenerateResource.Cache
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.exe
+C:\Users\qedwj\Desktop\project\ProjectKinect\ProjectKinect\ProjectKinect\obj\Debug\ProjectKinect.pdb
