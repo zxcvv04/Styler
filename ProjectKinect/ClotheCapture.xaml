@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ProjectKinect"
         mc:Ignorable="d"
    
-        Title="PostureCapture" Height="800" Width="1200" Loaded="Window_Loaded" Closed="Window_Closed">
+        Title="PostureCapture" Height="1920" Width="1080" Loaded="Window_Loaded" Closed="Window_Closed">
     <Grid>
         <Viewbox>
             <Grid Width="1920" Height="1080">
@@ -15,7 +15,11 @@
             </Grid>
         </Viewbox>
         <Grid Style="{StaticResource ContainerStyle}">
-            <StackPanel Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Margin="20,20,20,20.4" Grid.RowSpan="2">
                 <StackPanel>
                     <TextBlock Text="Right hand state:" Style="{StaticResource TitleStyle}" />
                     <TextBlock Name="tblRightHandState" Text="-" Style="{StaticResource StateStyle}" />

@@ -7,14 +7,13 @@
         mc:Ignorable="d"
         Title="PostureCapture" Height="1920" Width="1080" Loaded="Window_Loaded" Closed="Window_Closed">
     <Grid>
-        <Viewbox.RenderTransform>
-            Width="1920" Height="1080">
-            <Grid>
-                <Image  Name="camera" />
+        <Viewbox>
+            <Grid Width="1920" Height="1080">
+                <Image Name="camera" />
                 <Canvas Name="canvas" />
             </Grid>
-        </Viewbox.RenderTransform>
-        <Grid Style="{StaticResource ContainerStyle}">
+        </Viewbox>
+        <Grid Style="{StaticResource ContainerStyle}" Margin="0,0,-0.4,0.4" Width="298">
             <StackPanel Margin="20">
                 <StackPanel>
                     <TextBlock Text="Right hand state:" Style="{StaticResource TitleStyle}" />
@@ -25,8 +24,8 @@
                     <TextBlock Name="tblLeftHandState" Text="-" Style="{StaticResource StateStyle}" />
                 </StackPanel>
             </StackPanel>
-            <Image HorizontalAlignment="Left" Height="222" Margin="119,450,0,0" VerticalAlignment="Top" Width="191" Source="assets/t.jpg" />
-            <Button x:Name="Screenshot"  Content="Screenshot" HorizontalAlignment="Left" Margin="131,710,0,0" VerticalAlignment="Top" Width="140" Height="40" Click="Screenshot_Click"/>
+            <Image HorizontalAlignment="Left" Height="222" Margin="55,445,0,0" VerticalAlignment="Top" Width="191" Source="assets/t.jpg" />
+            <Button x:Name="Screenshot" Content="Screenshot" HorizontalAlignment="Left" Margin="55,708,0,0" VerticalAlignment="Top" Width="140" Height="40" Click="Screenshot_Click"/>
         </Grid>
     </Grid>
 </Window>
