@@ -66,10 +66,5 @@ namespace ProjectKinect
             Wind.Text = weatherDetails.WindSpeed;
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-            ClothesSelect CS = new ClothesSelect();
-            CS.ShowDialog();
-        }
     }
 }
