@@ -25,6 +25,8 @@ namespace ProjectKinect
         public MainWindow()
         {
             Get_Weather();
+            Database database = new Database();
+            database.ConnectDatabase();
 
             InitializeComponent();
         }
@@ -65,6 +67,5 @@ namespace ProjectKinect
             MinTemp.Text = weatherDetails.MinTemperature;
             Wind.Text = weatherDetails.WindSpeed;
         }
-
     }
 }
