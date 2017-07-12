@@ -25,6 +25,8 @@ namespace ProjectKinect
         public MainWindow()
         {
             Get_Weather();
+            Database database = new Database();
+            database.ConnectDatabase();
 
             InitializeComponent();
         }
@@ -64,12 +66,6 @@ namespace ProjectKinect
             MaxTemp.Text = weatherDetails.MaxTemperature;
             MinTemp.Text = weatherDetails.MinTemperature;
             Wind.Text = weatherDetails.WindSpeed;
-        }
-
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-            ClothesSelect CS = new ClothesSelect();
-            CS.ShowDialog();
         }
     }
 }

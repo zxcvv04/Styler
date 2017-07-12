@@ -40,6 +40,7 @@
     <Reference Include="Microsoft.Kinect.Tools, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64" />
     <Reference Include="Microsoft.Kinect.VisualGestureBuilder, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64" />
     <Reference Include="Microsoft.Kinect.Wpf.Controls, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -60,34 +61,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ClothesSelect.xaml.cs">
-      <DependentUpon>ClothesSelect.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Common\BindableBase.cs" />
-    <Compile Include="DataModel\SampleDataSource.cs" />
-    <Compile Include="HandPointers\HandInScreenEngagementModel.cs" />
-    <Compile Include="HandPointers\HandOverheadEngagementModel.cs" />
-    <Compile Include="Pages\ButtonSample.xaml.cs">
-      <DependentUpon>ButtonSample.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\CheckBoxRadioButtonSample.xaml.cs">
-      <DependentUpon>CheckBoxRadioButtonSample.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\EngagementSettings.xaml.cs">
-      <DependentUpon>EngagementSettings.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\ItemsControlsSample.xaml.cs">
-      <DependentUpon>ItemsControlsSample.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\KinectPointerPointSample.xaml.cs">
-      <DependentUpon>KinectPointerPointSample.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\ScrollViewerSample.xaml.cs">
-      <DependentUpon>ScrollViewerSample.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\SliderSample.xaml.cs">
-      <DependentUpon>SliderSample.xaml</DependentUpon>
-    </Compile>
+    <Compile Include="Database.cs" />
     <Compile Include="PostureCapture.xaml.cs">
       <DependentUpon>PostureCapture.xaml</DependentUpon>
     </Compile>
@@ -96,18 +70,6 @@
     <Page Include="ClotheCapture.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="ClothesSelect.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Common\StandardStyles.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="HandPointers\HandPointerStyles.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
     </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -124,34 +86,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Pages\ButtonSample.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Pages\CheckBoxRadioButtonSample.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Pages\EngagementSettings.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Pages\ItemsControlsSample.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Pages\KinectPointerPointSample.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Pages\ScrollViewerSample.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Pages\SliderSample.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
     <Page Include="PostureCapture.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
