@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\qedwj\Source\Repos\Styler\ProjectKinect\App.xaml
-31145321356
+13-1181322986
 
-14-1529384425
+26-1151143865
 1946292954
-ClotheCapture.xaml;MainWindow.xaml;PostureCapture.xaml;
+ClotheCapture.xaml;ClothesSelect.xaml;Common\StandardStyles.xaml;HandPointers\HandPointerStyles.xaml;MainWindow.xaml;Pages\ButtonSample.xaml;Pages\CheckBoxRadioButtonSample.xaml;Pages\EngagementSettings.xaml;Pages\ItemsControlsSample.xaml;Pages\KinectPointerPointSample.xaml;Pages\ScrollViewerSample.xaml;Pages\SliderSample.xaml;PostureCapture.xaml;
 
-True
+False
 
